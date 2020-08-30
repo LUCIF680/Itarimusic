@@ -1,0 +1,32 @@
+[22-Sep-2018 09:08:48 UTC] PHP Notice:  Undefined index: user in /home/l6id0xfaetw6/public_html/ExploredSongs.php on line 14
+[22-Sep-2018 09:08:48 UTC] PHP Notice:  Undefined index: user in /home/l6id0xfaetw6/public_html/ExploredSongs.php on line 20
+[22-Sep-2018 09:08:48 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/l6id0xfaetw6/public_html/ExploredSongs.php on line 21
+[22-Sep-2018 09:08:48 UTC] PHP Notice:  Undefined index: user in /home/l6id0xfaetw6/public_html/ExploredSongs.php on line 47
+[22-Sep-2018 09:08:54 UTC] PHP Notice:  Undefined index: user in /home/l6id0xfaetw6/public_html/ExploredSongs.php on line 14
+[22-Sep-2018 09:08:54 UTC] PHP Notice:  Undefined index: user in /home/l6id0xfaetw6/public_html/ExploredSongs.php on line 20
+[22-Sep-2018 09:08:54 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/l6id0xfaetw6/public_html/ExploredSongs.php on line 21
+[22-Sep-2018 09:08:54 UTC] PHP Notice:  Undefined index: user in /home/l6id0xfaetw6/public_html/ExploredSongs.php on line 47
+[22-Sep-2018 10:34:56 UTC] PHP Notice:  Undefined index: user in /home/l6id0xfaetw6/public_html/ExploredSongs.php on line 14
+[22-Sep-2018 10:34:56 UTC] PHP Notice:  Undefined index: user in /home/l6id0xfaetw6/public_html/ExploredSongs.php on line 20
+[22-Sep-2018 10:34:56 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/l6id0xfaetw6/public_html/ExploredSongs.php on line 21
+[22-Sep-2018 10:34:56 UTC] PHP Notice:  Undefined index: user in /home/l6id0xfaetw6/public_html/ExploredSongs.php on line 47
+[22-Sep-2018 12:58:12 UTC] PHP Notice:  Undefined index: user in /home/l6id0xfaetw6/public_html/ExploredSongs.php on line 14
+[22-Sep-2018 12:58:12 UTC] PHP Notice:  Undefined index: user in /home/l6id0xfaetw6/public_html/ExploredSongs.php on line 20
+[22-Sep-2018 12:58:12 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/l6id0xfaetw6/public_html/ExploredSongs.php on line 21
+[22-Sep-2018 12:58:12 UTC] PHP Notice:  Undefined index: user in /home/l6id0xfaetw6/public_html/ExploredSongs.php on line 47
+[22-Sep-2018 13:42:04 UTC] PHP Notice:  Undefined index: user in /home/l6id0xfaetw6/public_html/ExploredSongs.php on line 14
+[22-Sep-2018 13:42:04 UTC] PHP Notice:  Undefined index: user in /home/l6id0xfaetw6/public_html/ExploredSongs.php on line 20
+[22-Sep-2018 13:42:04 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/l6id0xfaetw6/public_html/ExploredSongs.php on line 21
+[22-Sep-2018 13:42:04 UTC] PHP Notice:  Undefined index: user in /home/l6id0xfaetw6/public_html/ExploredSongs.php on line 47
+[22-Sep-2018 18:44:01 UTC] PHP Notice:  Undefined index: user in /home/l6id0xfaetw6/public_html/ExploredSongs.php on line 14
+[22-Sep-2018 18:44:01 UTC] PHP Notice:  Undefined index: user in /home/l6id0xfaetw6/public_html/ExploredSongs.php on line 20
+[22-Sep-2018 18:44:01 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/l6id0xfaetw6/public_html/ExploredSongs.php on line 21
+[22-Sep-2018 18:44:01 UTC] PHP Notice:  Undefined index: user in /home/l6id0xfaetw6/public_html/ExploredSongs.php on line 47
+[22-Sep-2018 19:56:45 UTC] PHP Notice:  Undefined index: user in /home/l6id0xfaetw6/public_html/ExploredSongs.php on line 14
+[22-Sep-2018 19:56:45 UTC] PHP Notice:  Undefined index: user in /home/l6id0xfaetw6/public_html/ExploredSongs.php on line 20
+[22-Sep-2018 19:56:45 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/l6id0xfaetw6/public_html/ExploredSongs.php on line 21
+[22-Sep-2018 19:56:45 UTC] PHP Notice:  Undefined index: user in /home/l6id0xfaetw6/public_html/ExploredSongs.php on line 47
+[26-Nov-2018 14:18:36 UTC] PHP Deprecated:  Non-static method Mail::sendSupport() should not be called statically in /home/l6id0xfaetw6/public_html/Contact_us.php on line 51
+[13-Feb-2019 13:09:03 UTC] PHP Notice:  Undefined index: name in /home/l6id0xfaetw6/public_html/SignUp.php on line 18
+[13-Feb-2019 16:43:05 UTC] PHP Notice:  Undefined index: name in /home/l6id0xfaetw6/public_html/SignUp.php on line 18
+[22-Feb-2019 11:26:19 UTC] PHP Notice:  Undefined index: name in /home/l6id0xfaetw6/public_html/SignUp.php on line 18

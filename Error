@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="ISO-8859-1">
+    <title>Itari-Music:The Home of Random Songs</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+body{
+  width:100%%;
+}
+</style>
+</head>
+
+<body>
+  Work in progress..<br>
+  Our developer team is working day and night to deliver this service..<br>
+  Thank you for your patience<a href="Home.php">Home</a>
+</body>
+</html>
