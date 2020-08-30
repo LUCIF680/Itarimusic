@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+
+.info_about_upload{
+margin-left:10%;
+-moz-colourm-count:3;
+}
+input[type=file]{
+	display:none;
+}

@@ -1,0 +1,24 @@
+.video_container{
+  margin-top: 9%;
+  position: relative;
+  padding-bottom: 40.25%;
+  padding-top: 30px; height: 0; overflow: hidden;
+}
+.next_video{
+   float: right;
+   background: #4a4d72 none repeat scroll 0% 0%;
+   width: 15%;
+   margin-right: 2%;
+   font-size:120%;
+   position: relative;
+   bottom: 20px;
+}
+.video-container iframe,
+.video-container object,
+.video-container embed {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}

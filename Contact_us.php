@@ -97,8 +97,8 @@ How can we help:<br/><textarea name ="problem" required placeholder="Please don'
 <input type="reset" />
 <?php echo $alreadymember?>
 <br/><?php echo $msg?>
-Contact Our Sonic Speeeed Customer Services <span style="color:blue">supportcare@protonmail.com</span><br/>
-For Artist Support Contact Us at <span style="color:blue">supportartist@protonmail.com</span><br/>
+Contact Our Sonic Speeeed Customer Services <span style="color:blue">xyz@protonmail.com</span><br/>
+For Artist Support Contact Us at <span style="color:blue">xyz@protonmail.com</span><br/>
 <br/>
 <span style="font-size:95%;">Your Feedback is very Important to Us</span>
 </p>

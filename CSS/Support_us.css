@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+.supportus{
+width:60%;
+margin-top:5%;
+font-size:120%;
+font-family:Arial Rounded MT Bold;
+}
+
+.onetime{
+  background:rgb(66,64,61);
+  color:white;
+  margin-top:3%;
+  width:20%;
+  cursor:pointer;
+  padding-top:1%;
+  padding-bottom:1%;
+  border:none;
+}
+.donatenow{
+  background: #686ca6;
+  color:white;
+  width:20%;
+  cursor:pointer;
+  padding-top:1%;
+  padding-bottom:1%;
+  border:none;
+}
+.buttonchange{
+  border:solid 3px black;
+
+}

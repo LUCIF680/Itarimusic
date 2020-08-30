@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+.section_area{
+width:60%;
+margin:0px auto;
+margin-top:10%;
+background:white;
+padding:3%;
+border-radius:3px;
+box-shadow:0px 0px 10px grey;
+
+}
+body{
+background:rgb(237,237,237);
+}

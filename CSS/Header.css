@@ -1,0 +1,47 @@
+@charset "ISO-8859-1";
+@font-face {
+	font-family: 'BLKCHCRY';
+	 src: url('http://192.168.29.237/itarimusic.current/Fonts/BLKCHCRY.eot');
+	 src: url('http://192.168.29.237/itarimusic.current/Fonts/BLKCHCRY.eot') format('embedded-opentype'),
+				url('http://192.168.29.237/itarimusic.current/Fonts/BLKCHCRY.TTF') format('truetype'),
+				url('http://192.168.29.237/itarimusic.current/Fonts/BLKCHCRY.svg#font') format('svg'),
+				url('http://192.168.29.237/itarimusic.current/Fonts/BLKCHCRY..woff') format('woff');
+}
+.name_of_website{
+	font-family:'BLKCHCRY';
+	font-size:250%;
+	color:white;
+	}
+
+.menu_div{
+	padding-top:3px;
+	padding-bottom:3px;
+	padding-left:7px;
+	padding-right:7px;
+	color:white;
+	border-bottom:solid 4px white;
+	border-radius:3px;
+	float:right;
+	cursor: pointer;
+	font-family:Corbel;
+	z-index:1;
+}
+.menu_div:hover{
+	color:black;
+	background:white;
+	z-index:1;
+}
+
+.menu_bar{
+	position:fixed;
+	left:0px;
+	background:rgb(66,64,61);
+	right:1px;
+	top:0px;
+	display:block;
+	box-shadow:0px 5px 5px black;
+	}
+.menu_bar1{
+	margin-left: 15px ;
+	margin-top: 7px ;
+}
